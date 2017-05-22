@@ -17,4 +17,4 @@
 
 Route::get('algo', function () {
         echo "WFTMASTER";//return view('Imagenes.frmimagen');
-    });
+});
